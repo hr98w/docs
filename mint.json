@@ -8,14 +8,14 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#8FB9F8",
+    "light": "#B8D4FA",
+    "dark": "#5A8AD9",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#8FB9F8",
+      "to": "#B8D4FA"
     }
-  },
+  }
   "topbarLinks": [
     {
       "name": "Support",
